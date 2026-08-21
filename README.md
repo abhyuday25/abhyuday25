@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhyuday25&label=Profile%20Views&color=00F7FF&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abhyuday25?label=Followers&style=flat&color=blueviolet" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat" alt="Open to Collaborate" />
 </p>
@@ -115,7 +114,6 @@
   <img src="https://raw.githubusercontent.com/abhyuday25/abhyuday25/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
-> ℹ️ To activate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a repo named exactly `abhyuday25/abhyuday25`, so it generates the `output` branch and SVG this image points to.
 
 ---
 
